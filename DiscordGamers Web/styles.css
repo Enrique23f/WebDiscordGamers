@@ -1,0 +1,24 @@
+/* CSS Document */
+	body {
+		background-color: lightslategray;
+	}
+	
+div.links {
+	align-content: center;
+	border: none;
+	display: inline-block;
+}
+/* Por alguna razón, no quiere poner los links en horizontal, alguna solución? */
+	ul.links {
+		border: none;
+		list-style: none;
+		
+	}
+	h1 {
+		color: azure;
+		font-family: Consolas;
+	}
+	p {
+		color: white;
+		font-family: Verdana;
+	}
