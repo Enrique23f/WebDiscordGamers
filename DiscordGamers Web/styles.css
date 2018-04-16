@@ -8,7 +8,7 @@ div.links {
 	border: none;
 	display: inline-block;
 }
-/* Por alguna razón, no quiere poner los links en horizontal, alguna solución? */
+/* Por alguna razón, no quiere poner los links en horizontal, alguna solución? (Solucionado tras indagar un poco, el estilo es de los li, no de los ul.)*/
 	ul.links {
 		border: none;
 		list-style: none;
