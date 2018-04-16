@@ -1,0 +1,29 @@
+/* CSS Document */
+	body {
+		background-color: lightslategray;
+	}
+	
+div.links {
+	align-content: center;
+	border: none;
+	display: inline-block;
+}
+	.links li {
+		border: none;
+		list-style: none;
+		text-align: center;
+		margin: 0px 10px 0 0;
+		display: inline;
+	}
+	.links li a {
+		color: goldenrod;
+		text-decoration: none;
+	}
+	h1 {
+		color: azure;
+		font-family: Consolas;
+	}
+	p {
+		color: white;
+		font-family: Verdana;
+	}
