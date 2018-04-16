@@ -2,22 +2,43 @@
 	body {
 		background-color: lightslategray;
 	}
-	
-div.links {
+	div.logocabecera {
+		float: left;
+		overflow: auto;
+	}
+	div.links {
 	align-content: center;
-	border: none;
+	border: 3px solid black;
 	display: inline-block;
+	float: none;
+	clear: both;
 }
+	.links ul {
+		list-style-type: none;
+		margin: 0;
+		padding: 0;
+		overflow: hidden;
+		background-color: rgb(165, 164, 164);
+	}
 	.links li {
-		border: none;
-		list-style: none;
-		text-align: center;
-		margin: 0px 10px 0 0;
-		display: inline;
+		float: left;
 	}
 	.links li a {
-		color: goldenrod;
+		color: white;
 		text-decoration: none;
+		display: inline-block;
+		padding: 14px 16px;
+
+	}
+	.links li a:hover {
+		background: rgba(82, 81, 81, 0.411);
+	}
+	.links button {
+		text-decoration: none;
+
+	}
+	.active {
+		background-color: black;
 	}
 	h1 {
 		color: azure;
