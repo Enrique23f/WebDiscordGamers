@@ -1,0 +1,31 @@
+<html>
+    <head>
+<title>DiscordGamers</title> 
+
+<link rel="shortcut icon" href="imagenes/favicon.ico" type="image/x-icon">
+
+
+</head>
+
+ <body>
+    <!--esto es un codigo-->
+<h1> Bienvenido a DiscordGamers </h1>
+
+<p>En esta página habrá cambios, <br /> <strong>porque voy mejorando con HTML :)</strong></p>
+<hr>
+<h2>¿Que es DiscordGamers?</h2>
+
+<p>
+    <cite>Enrique Vázquez Bustos</cite> <br />
+    Es una página donde puedes descubrir distintos tipos de juegos, abajo puedes hablar con nosotros dando al enlace</p>
+<a target="_blank" href="https://discord.gg/w5yq4vm">Ir a DiscordGamers en Discord!</a> <br />
+<a href="imagenes/mando.png">Ir a la Imagen</a>
+<a href="mailto:discordgamerses@gmail.com" title="Enviar correo a DiscordGamers">Enviar Mail</a>
+
+
+
+<br />
+<iframe src="https://discordapp.com/widget?id=386542924743180292&theme=dark" width="650" height="500" allowtransparency="true" frameborder="0"></iframe>
+
+ </body>
+</html>
